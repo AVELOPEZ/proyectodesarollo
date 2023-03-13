@@ -308,7 +308,7 @@
                   <i class="bi bi-star-fill starts"></i>
                   <i class="bi bi-star-fill starts fa-gray"></i> (6)
                 </div>
-                <i class="bi bi-clock"> 5 años de experiencia</i>
+                <i class="bi bi-clock"> 3 años de experiencia</i>
                 <li><i class="bi bi-coin"> L 900.00</i></li>
                 <li><i class="bi bi-telephone-fill"> 8754-2555</i></li>
               </ul>
