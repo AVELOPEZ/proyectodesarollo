@@ -16,8 +16,7 @@
   background-color: #a5c5e4; /*color del boton*/
 }
 .card a:hover {
-  background-color: #025b88; /*color del boton al selecionar*/
-
+  background-color: #5eb0d9; /*color del boton al selecionar*/
 }
 .card-body {
   background-color: #e1eff5;
@@ -30,6 +29,3 @@
 }
 
 /*Osman CSS si lo uso*/
-
-
-
